@@ -28,7 +28,29 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {children}
+        <div
+          className="
+            container
+            mx-auto
+            min-h-screen
+            max-w-7xl
+            border-x
+          "
+        >
+          <header className="sticky top-0 z-50 w-full border-b border-border/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 dark:border-border">
+            <div className="flex h-14 items-center px-6">
+              <span
+                className='
+                  font-semibold
+                  text-xl
+                '
+              >
+                Tienda Online
+              </span>
+            </div>
+          </header>
+          {children}
+        </div>
       </body>
     </html>
   );

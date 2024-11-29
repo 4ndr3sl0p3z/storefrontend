@@ -10,7 +10,8 @@ const nextConfig: NextConfig = {
         pathname: '/**',
       }
     ]
-  }
+  },
+  reactStrictMode: false
   /* config options here */
 };
 
