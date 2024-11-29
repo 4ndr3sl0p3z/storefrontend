@@ -6,7 +6,7 @@ import { fCurrency } from "@/app/utils/formatNumber";
 import { CircleArrowLeft } from "lucide-react";
 
 
-export const runtime = 'edge'
+export const runtime = 'experimental-edge'
 
 export default function ProductDetailComponent() {
 

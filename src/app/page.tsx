@@ -5,6 +5,8 @@ import database from '../helpers/products.json'
 import { fCurrency } from "./utils/formatNumber";
 import { useRouter } from 'next/navigation';
 
+export const runtime = 'experimental-edge'
+
 export default function Home() {
 
   const router = useRouter();
