@@ -54,7 +54,7 @@ export default function ProductDetailComponent() {
                             pt-6
                             gap-2
 
-                            md:flex-col
+                            max-md:flex-col
                         "
                     >
                         <div
