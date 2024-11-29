@@ -1,6 +1,9 @@
-import Image from "next/image";
+'use client'
+
+import Image from 'next/image';
 import database from './helpers/products.json'
 import { fCurrency } from "./utils/formatNumber";
+import { Sidebar, SidebarHeader } from "@/components/ui/sidebar";
 
 export default function Home() {
   return (
@@ -8,11 +11,23 @@ export default function Home() {
       className="
         container
         mx-auto
-        h-screen
+        min-h-screen
         max-w-7xl
         border-x
       "
     >
+      <header className="sticky top-0 z-50 w-full border-b border-border/40 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60 dark:border-border">
+        <div className="flex h-14 items-center px-6">
+          <span
+            className='
+              font-semibold
+              text-xl
+            '
+          >
+            Tienda Online
+          </span>
+        </div>
+      </header>
       <div
         className="
           grid
@@ -29,7 +44,7 @@ export default function Home() {
               className="
                 flex
                 flex-col
-                rounded-sm
+                rounded-md
                 border
                 overflow-hidden
                 h-[450px]
@@ -45,15 +60,31 @@ export default function Home() {
                   overflow-hidden
                   w-full
                   justify-center
+                  relative
                 "
               >
-                <img
+                {/* <img
                   className="
                     max-h-full
                     object-contain
                     object-center
                   "
                   src = { x.images[0].url }
+                /> */}
+                <Image
+                    src = { x.images[0].url }
+                    alt = ""
+                    fill
+                    sizes="100vw"
+                    style={{
+                      width: "100%",
+                      objectFit: "contain"
+                    }}
+                    className='
+                      hover:scale-110
+                      duration-500
+                      transition-transform
+                    '
                 />
               </div>
               <div
