@@ -1,0 +1,258 @@
+[
+    {
+        "name": "SET DE TAMBOR DE MARACAS",
+        "price" : 20000,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844707/IMG_2576_zlwvow.jpg"
+            }
+        ]
+    },
+    {
+        "name": "TOCADOR CASTILLO",
+        "price" : 64000,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844689/IMG_2606_g7yr3e.jpg"
+            }
+        ]
+    },
+    {
+        "name": "CARRO DE BOMBEROS SONIDOS",
+        "price" : 56000,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844686/IMG_2609_irzaom.jpg"
+            }
+        ]
+    },
+    {
+        "name": "CASA ARMATODO",
+        "price" : 54600,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844691/IMG_2590_n2ovhw.jpg"
+            }
+        ]
+    },
+    {
+        "name": "RETROEXCAVADORA",
+        "price" : 43200,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844686/IMG_2613_ys6biw.jpg"
+            }
+        ]
+    },
+    {
+        "name": "ARMATODO HELICOPTERO",
+        "price" : 54700,
+        "images": [
+            {
+                "key" : "1",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844701/IMG_2581_dmheb8.jpg"
+            },
+            {
+                "key" : "2",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844705/IMG_2583_mwqb1k.jpg"
+            }
+        ]
+    },
+    {
+        "name": "LANZADOR DE AGUA GIGANTE",
+        "price" : 35000,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844689/IMG_2602_cqjghw.jpg"
+            }
+        ]
+    },
+    {
+        "name": "MALETIN DE NIÑA MED",
+        "price" : 41800,
+        "images": [
+            {
+                "key" : "1",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1732844704/IMG_2587_qrj6gi.jpg"
+            },
+            {
+                "key" : "2",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844705/IMG_2577_e0vwkw.jpg"
+            }
+        ]
+    },
+    {
+        "name": "BOLSO DE PELUCHE Stich pequeño",
+        "price" : 29000,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1732844697/IMG_2595_ehzuht.jpg"
+            }
+        ]
+    },
+    {
+        "name": "MUÑECO ENFERMERO",
+        "price" : 79500,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1732844682/IMG_2617_hmwxxv.jpg"
+            }
+        ]
+    },
+    {
+        "name": "BEBE LINDO SONIDOS",
+        "price" : 81000,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1732844692/IMG_2601_onilap.jpg"
+            }
+        ]
+    },
+    {
+        "name": "CARROS DE CARRERAS CARTONADO",
+        "price" : 7000,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1732844685/IMG_2611_wdw8eu.jpg"
+            }
+        ]
+    },
+    {
+        "name": "SET DE CARROS",
+        "price" : 16800,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732852406/IMG_2643_dzdn02.jpg"
+            }
+        ]
+    },
+    {
+        "name": "TRANSFORMER CARTONADO GRANDE",
+        "price" : 59200,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732852340/IMG_2624_ykxosg.jpg"
+            }
+        ]
+    },
+    {
+        "name": "CARRO NIÑERA",
+        "price" : 78900,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1732844678/IMG_2627_nisbkw.jpg"
+            }
+        ]
+    },
+    {
+        "name": "PISTA 360",
+        "price" : 26900,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844692/IMG_2636_xoyskv.jpg"
+            }
+        ]
+    },
+    {
+        "name": "PISTA DE CARROS",
+        "price" : 21000,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844678/IMG_2637_o3vbvt.jpg"
+            }
+        ]
+    },
+    {
+        "name": "MAQUINA SHAKIRAS",
+        "price" : 28700,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844682/IMG_2639_kgvd4w.jpg"
+            }
+        ]
+    },
+    {
+        "name": "CARRO CONTROL LLANTON BATERÍA",
+        "price" : 93500,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844686/IMG_2621_julh0y.jpg"
+            }
+        ]
+    },
+    {
+        "name": "SET DE BELLEZA NIÑA",
+        "price" : 24200,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844678/IMG_2647_vp91uq.jpg"
+            }
+        ]
+    },
+    {
+        "name": "MALETÍN  MÉDICO VETERINARIO",
+        "price" : 35000,
+        "images": [
+            {
+                "key" : "1",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844698/IMG_3349_zcqphi.jpg"
+            },
+            {
+                "key" : "2",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844695/IMG_3351_qvxbgy.jpg"
+            }
+        ]
+    },
+    {
+        "name": "SET DE COCINA CAJA",
+        "price" : 36500,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844682/IMG_2632_gmlol6.jpg"
+            }
+        ]
+    },
+    {
+        "name": "SET DE COCINA CAJA",
+        "price" : 27000,
+        "images": [
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844683/IMG_2619_vtiv5g.jpg"
+            }
+        ]
+    },
+    {
+        "name": "BOLSO DE PELUCHE",
+        "price" : 41600,
+        "images": [
+            {
+                "key" : "1",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844704/IMG_3347_cw1jcs.jpg"
+            },
+            {
+                "key" : "2",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844698/IMG_3353_n9se2t.jpg"
+            }
+        ]
+    }
+]
