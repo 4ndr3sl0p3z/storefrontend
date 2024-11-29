@@ -20,7 +20,7 @@ export default function ProductDetailComponent() {
     useEffect(() => {
         if (database.length > 0 && params.id !== undefined) {
             let name = params.id as any;
-            name = name.replaceAll("%20", " ").replace("%C3%91","Ñ")
+            name = name.replaceAll("%20", " ").replace("%C3%91","Ñ").replace("%C3%B1", "ñ")
             const filter = database.filter((x: any) => x.name === name)
             if (filter.length > 0) {
                 setProduct(filter[0])
