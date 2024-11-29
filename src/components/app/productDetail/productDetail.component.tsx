@@ -37,12 +37,25 @@ export default function ProductDetailComponent() {
             <div
                 className="
                     px-6
-                    pt-6
-                    cursor-pointer
+                    pt-2
+                    flex
                 "
-                onClick={()=> router.push('/')}
             >
-                <CircleArrowLeft/>
+                <div
+                    className="
+                    flex
+                    flex-row
+                    gap-1
+                    hover:bg-slate-300
+                    cursor-pointer
+                    p-2
+                    rounded-full
+                    "
+                    onClick={()=> router.push('/')}
+                >
+                    <CircleArrowLeft/>
+                    <span>Regresar</span>
+                </div>
             </div>
             {
                 product.name !== undefined ?
@@ -51,9 +64,9 @@ export default function ProductDetailComponent() {
                             flex
                             flex-row
                             px-6
-                            pt-6
+                            pt-2
                             gap-2
-
+                            
                             max-md:flex-col
                         "
                     >
@@ -70,6 +83,8 @@ export default function ProductDetailComponent() {
                                     relative
                                     h-[450px]
                                     border
+                                    rounded-lg
+                                    overflow-hidden
                                 "
                             >
                                 <Image
@@ -126,7 +141,6 @@ export default function ProductDetailComponent() {
                                 flex-1
                                 flex
                                 flex-col
-                                gap-2
                                 relative
                                 px-2
                             "
@@ -144,6 +158,8 @@ export default function ProductDetailComponent() {
                                 className="
                                     font-normal
                                     text-gray-500
+                                    text-[1.2rem]
+                                    mt-[-5px]
                                 "
                             >
                                 {
