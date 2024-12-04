@@ -123,7 +123,7 @@
         "images": [
             {
                 "key" : "",
-                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1732844685/IMG_2611_wdw8eu.jpg"
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844685/frontProducts/IMG_2611_wdw8eu.jpg"
             }
         ]
     },
@@ -153,7 +153,11 @@
         "images": [
             {
                 "key" : "",
-                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1732844678/IMG_2627_nisbkw.jpg"
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844678/frontProducts/IMG_2627_nisbkw.jpg"
+            },
+            {
+                "key" : "",
+                "url" : "https://res.cloudinary.com/dtlqljnog/image/upload/v1732844678/frontProducts/IMG_2628_in37v9.jpg"
             }
         ]
     },
